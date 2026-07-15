@@ -154,7 +154,7 @@ export default function HomePage() {
               </Link>
             ) : (
               <Link href="/login" className="btn btn-primary" style={{ padding: '0.5rem 1.25rem', fontSize: '0.85rem' }}>
-                Student Login
+                Login
               </Link>
             )}
           </nav>
